@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Horizon",
   "logo": {
-    "dark": "https://horizonbrowser.com/assets/wordmark_white.png",
-    "light": "https://horizonbrowser.com/assets/wordmark.png"
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
   },
   "favicon": "https://horizonbrowser.com/favicon.png",
   "colors": {
