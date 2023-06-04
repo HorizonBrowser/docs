@@ -1,25 +1,19 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Horizon",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://horizonbrowser.com/assets/wordmark_white.png",
+    "light": "https://horizonbrowser.com/assets/wordmark.png"
   },
-  "favicon": "/favicon.png",
+  "favicon": "https://horizonbrowser.com/favicon.png",
   "colors": {
-    "primary": "#12A7D3",
-    "light": "#81D7F7",
-    "dark": "#004E7A"
+    "primary": "#3C4FFF",
+    "light": "#B9DDFF",
+    "dark": "#004CBE"
   },
-  "topbarLinks": [
-    {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
-    }
-  ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Join the Waitlist",
+    "url": "https://horizonbrowser.com"
   },
   "tabs": [
     {
